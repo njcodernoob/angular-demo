@@ -1,4 +1,5 @@
 # angular-demo
 
-#ng new angular-demo
-#ng serve
+ng new angular-demo
+
+ng serve
